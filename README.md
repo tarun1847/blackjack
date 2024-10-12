@@ -16,26 +16,6 @@ A command-line implementation of the popular card game **Blackjack** in Python, 
 3. **Computer's Turn**: The computer draws cards until its score is at least 17.
 4. **Game Ends**: The game ends when either the player or the computer reaches Blackjack (21), exceeds 21, or passes.
 
-## Installation
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/tarun1847/blackjack.git
-    ```
-
-2. **Navigate to the project directory**:
-
-    ```bash
-    cd blackjack-game
-    ```
-
-3. **Run the game**:
-
-    ```bash
-    python main.py
-    ```
-
 ## Rules of the Game
 
 - **Blackjack (21)**: A hand of 21 points with just two cards (an Ace and a 10-point card) is called Blackjack.
