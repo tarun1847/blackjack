@@ -1,8 +1,3 @@
-#Blackjack Game 🎴🃏
-Here’s the updated GitHub README with proper headings and structure using markdown syntax (`#`):
-
----
-
 # Blackjack Game 🎲
 
 A command-line implementation of the popular card game **Blackjack** in Python, where you can play against the computer. The objective is to score as close to 21 as possible without going over.
