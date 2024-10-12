@@ -21,7 +21,7 @@ A command-line implementation of the popular card game **Blackjack** in Python, 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/blackjack-game.git
+    git clone https://github.com/tarun1847/blackjack.git
     ```
 
 2. **Navigate to the project directory**:
